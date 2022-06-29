@@ -1,4 +1,4 @@
-# flutter_code_coverage_single_package
+# Flutter code coverage in a single package app
 
 A simple Flutter project demonstrating how code coverage works in Flutter with a single package APP.
 
@@ -17,3 +17,15 @@ Convert info into html report (```lcov``` needs to be installed):
 Coverage report will be available in ```/coverage/html/index.html```.
 
 Remember to add ```/coverage``` folder to the ```.gitignore``` file.
+
+## Additional info
+
+This is the first part of four repositories teaching how to handle code coverage in Flutter APPs:
+
+Part 1 - Flutter code coverage in a single package app;
+
+[Part 2 - Flutter code coverage in a multi package app](https://github.com/cantellir/flutter_code_coverage_multi_package);
+
+Part 3 - Github actions to handle Flutter APP minimum coverage;
+
+Part 4 - Integration with CodeCov analysis tool;
